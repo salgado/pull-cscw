@@ -18,8 +18,13 @@
 	<li> 5 - Daniel Campanha</li>
 	<li> 6 - Matheus Souza</li>
 	<li> 7 - Robson Alfaia</li>
-        <li> 8 - Samuel Benevides de Barros</li>
+       
 	<li><a href="https://github.com/Wallacefreixo/pull-cscw"> 8 - Wallace Azeredo</a></li>
+<<<<<<< HEAD
+       <li> 9 - Samuel Benevides de Barros</li>
+=======
+	<li><a href="https://github.com/ricardochimenes/pull-cscw"> 9 -Ricardo Chimenes</a></li>
+>>>>>>> upstream/master
 
 </ul>
 </BODY>
